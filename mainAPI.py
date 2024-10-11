@@ -10,9 +10,9 @@ import mysql.connector
 def index(robloxid: str):
     connection = mysql.connector.connect(
         host="54.38.50.59",
-        user="www14088_tykocinweryfikacja",
-        password="NLCQtx7NWMClKFmjpWcC",
-        database="www14088_tykocinweryfikacja")
+        user="www14268_weryfikacjabot",
+        password="QggMg3pNufpKbr3gGWr9",
+        database="www14268_weryfikacjabot")
 
     cursor = connection.cursor()
 
